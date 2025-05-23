@@ -1,5 +1,5 @@
-![image](https://github.com/user-attachments/assets/54ce7a70-00f5-4dfd-a6fe-927a3f25b012)
 
+![image](https://upload.wikimedia.org/wikipedia/commons/b/b0/Logo_Universidad_Polit%C3%A9cnica_Salesiana_del_Ecuador.png)
 
 **Carrera:** Computacion 
 
@@ -34,3 +34,7 @@ Esto subraya que el análisis estadístico no debe limitarse a los números, y q
 ## Dataset DataSaurus
 
 El Datasaurus Dozen es un conjunto de datos creado en 2016 por el diseñador de información Alberto Cairo y otros, inspirado en el Cuarteto de Anscombe. Su objetivo principal es mostrar cómo conjuntos de datos pueden compartir estadísticas descriptivas similares, pero tener visualizaciones muy diferentes, enfatizando la importancia de la exploración visual de los datos. El Datasaurus refuerza la lección del Cuarteto de Anscombe: las estadísticas descriptivas, como la media o la correlación, no cuentan toda la historia. Visualizar los datos es crucial para identificar patrones, tendencias o anomalías que no son evidentes en los números.
+
+# Gráfica de los cuatro datasets de Anscombe:
+
+![Descripción de la imagen](https://camo.githubusercontent.com/f92c5988104ac80be2689c6103b0e64ff672d38b5e977e7291c90e24f3781d3c/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f622f62362f416e73636f6d62652e7376672f3139323070782d416e73636f6d62652e7376672e706e67)
